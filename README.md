@@ -30,7 +30,7 @@
 
 <p>&emsp;&emsp;Hello everyone, my name is Alex.</p>
 <p>&emsp;&emsp;I am currently a PhD student majoring in Computer Science.</p>
-<p>&emsp;&emsp;My research interests include information retrieval, Test-Time Training (TTT), parametric knowledge, large language models (LLMs), vision-language models (VLMs), world models, and model persuasiveness.</p>
+<p>&emsp;&emsp;My research interests include IR, TTT, parametric knowledge, LLMs, VLA, World Models and Persuasion.</p>
 <p>&emsp;&emsp;Act, and you shall arrive; strive, and you shall prevail.</p>
 <p><strong>&emsp;&emsp;My academic homepage: https://alexwhisper.github.io/</strong></p>
 
