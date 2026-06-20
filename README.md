@@ -28,11 +28,13 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是Alex。</p>
-<p>&emsp;&emsp;目前CS专业研究生在读。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
+<p>&emsp;&emsp;Hello everyone, my name is Alex.</p>
+<p>&emsp;&emsp;I am currently a PhD student majoring in Computer Science.</p>
+<p>&emsp;&emsp;My research interests include information retrieval, Test-Time Training (TTT), parametric knowledge, large language models (LLMs), vision-language models (VLMs), world models, and model persuasiveness.</p>
+<p>&emsp;&emsp;Act, and you shall arrive; strive, and you shall prevail.</p>
+<p><strong>&emsp;&emsp;My academic homepage: https://alexwhisper.github.io/</strong></p>
+
 
 </td></tr>
+
+
